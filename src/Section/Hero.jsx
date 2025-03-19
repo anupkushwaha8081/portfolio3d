@@ -100,11 +100,11 @@ import Cube from '../Components/Cube.jsx';
 import Rings from '../Components/Rings.jsx';
 import ReactLogo from '../Components/ReactLogo';
 import Button from '../Components/Button.jsx';
-import Target from '../components/Target.jsx';
+import Target from '../Components/Target.jsx';
 import CanvasLoader from '../Components/Loading.jsx';
 import HeroCamera from '../Components/HeroCamera.jsx';
 import { calculateSizes } from '../Constants/index.js';
-import { HackerRoom } from '../components/HackerRoom.jsx';
+import { HackerRoom } from '../Components/HackerRoom.jsx';
 
 const Hero = () => {
   // Use media queries to determine screen size
